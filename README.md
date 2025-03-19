@@ -48,4 +48,5 @@ A full-stack application that extracts and structures text from images using OCR
    - Alternative model for enhanced text processing
    - Requires API key
    - Better accuracy for complex documents
+![image](https://github.com/user-attachments/assets/fb1832f0-5103-44fa-96f3-e540510c02f8)
 
